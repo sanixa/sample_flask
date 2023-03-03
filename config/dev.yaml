@@ -1,0 +1,9 @@
+# -*- coding: utf-8 -*-
+sample1:
+  sample: 'sample'
+
+sample2:
+  sample:
+    - 'sample1'
+    - 'sample2'
+    - 'sample3'
